@@ -1,4 +1,3 @@
 # Portfolio
-I will be listing here my PHP &amp; WordPress plugin work. <br>
-I will be recording coursework & projects under the <a href="https://github.com/lukeMersh?tab=projects&type=new">projects tab.</a><br>
-Enjoy :)
+Here I will be adding my plugin practices and projects I am working on.
+There will be Wordpress plugins, widgets and shotcode and I will add each repo to my projects which are linked to my portfolio.
